@@ -52,10 +52,10 @@ This project focuses on classification using machine learning. It includes data 
 
 ---
 
-## 📌 Results
+##  Results
 - Brief summary of best model performance  
 
 ---
 
-## 👤 Author
+##  Author
 Karthika K Pillai
