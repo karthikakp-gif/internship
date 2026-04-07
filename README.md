@@ -1,17 +1,17 @@
 # 📊 Project Title
 
-## 📌 Overview
+##  Overview
 This project focuses on classification using machine learning. It includes data preprocessing, EDA, feature engineering, and model building.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 - Source: (mention where dataset came from)
 - Description: Brief info about data
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -20,7 +20,7 @@ This project focuses on classification using machine learning. It includes data 
 
 ---
 
-## 🔍 Steps Performed
+##  Steps Performed
 1. Data Cleaning  
 2. Exploratory Data Analysis (EDA)  
 3. Feature Engineering  
@@ -29,7 +29,7 @@ This project focuses on classification using machine learning. It includes data 
 
 ---
 
-## 🤖 Models Used
+##  Models Used
 - Logistic Regression  
 - Decision Tree  
 - Random Forest  
@@ -37,7 +37,7 @@ This project focuses on classification using machine learning. It includes data 
 
 ---
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 - Accuracy  
 - Precision  
 - Recall  
@@ -45,7 +45,7 @@ This project focuses on classification using machine learning. It includes data 
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 1. Open in Google Colab  
 2. Upload dataset  
 3. Run all cells  
@@ -58,4 +58,4 @@ This project focuses on classification using machine learning. It includes data 
 ---
 
 ## 👤 Author
-Your Name
+Karthika K Pillai
