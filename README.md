@@ -1,4 +1,4 @@
-# 📊 Project Title
+#  Project Title
 
 ##  Overview
 This project focuses on classification using machine learning. It includes data preprocessing, EDA, feature engineering, and model building.
